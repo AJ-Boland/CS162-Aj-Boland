@@ -1,0 +1,22 @@
+1.
+    5 topics that I find interesting relating to computers:
+        -Computer components. The way RAM, processors, motherboards, and other parts all work.
+        -Electricity, understanding when it will pass through wire and when they won't utilizing the energy. All very cool
+        -Video game design, I grew up on video games and love to explore and understand all the inner game concepts. 
+        I don't plan on going into the gaming industry but I'd love to dabble some in game design for myself
+        -The internet, routers and modems. Understanding how we have access to all this information, where is it stored. Exciting stuff
+        -Coding. I have touched a few different languages overtime and enjoy how it works. I really enjoy developing programs that preform the way I want, 
+        and to some degree I must be a masochist because debugging can be fun if it doesn't take hours.
+    5 topics that I find challenging relating to computers:
+        -I find it challenging to know which career field I will want to go into that is in relation to computers. 
+        Do I want to sit behind a desk and code for hours on end, and for what purpose? 
+        Or do I want to be more hands on with hardware.
+        -Sometimes I find it difficult to remember all the cool coding tool I have access to and when they work best with one another to have the most efficient program. 
+        For example, knowing I can make arrays and lists, but which would be best for this hypothetical program.
+        -I find it difficult to outline programs that are not simple. 
+        I am usually throwing myself in head first to figure out some of the more difficult bits first, and then trying to make it all work. 
+        -Typing, I feel weird to not be amazing at typing for I have spent a lot of time at a keyboard, but to type fast and accurate is challenging for me. 
+        -I find building computers difficult. While it is fun too, matching all the hardware to make sure it is compatible, 
+        finding decent prices without sacrificing too much performance, and keeping hardware safe, as in not damaging it with static electricity or hurting fragile parts.
+
+
